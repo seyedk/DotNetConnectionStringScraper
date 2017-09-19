@@ -1,0 +1,1 @@
+# DotNetConnectionStringScraper
